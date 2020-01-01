@@ -1,0 +1,18 @@
+/**             
+* @package ./css/colors-bootstrap.css
+* @author Frank Cherry
+* @copyright (c) 2019 Frank Cherry
+* @creationDate 2019.08.23
+* @developers 
+* @lastRevision 2019.12.22
+* @version BBootstrap v.0.0.1
+* @license MIT License
+**/
+:root {
+	--dark-dark:  #330033;   --dark:  #330033;   --dark-light:  #330033;
+	--fire-dark:  #563d7c;   --fire:  #6699ff;   --fire-ligth:  #563d7c; 
+	--air-dark:   #6e43a3;   --air:   #0033cc;   --air-light:   #6e43a3; 
+	--water-dark: #b4a0cd;   --water: #99ccff;   --water-light: #b4a0cd;
+	--earth-dark: #cbbde2;   --earth: #ccffff;   --earth-light: #cbbde2;
+	--light-dark: #ffffff;   --light: #ffffff;   --light-light: #ffffff;
+}

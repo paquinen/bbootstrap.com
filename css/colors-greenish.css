@@ -1,0 +1,18 @@
+/**             
+* @package ./css/colors-greenish.css
+* @author Frank Cherry
+* @copyright (c) 2019 Frank Cherry
+* @creationDate 2020.01.01
+* @developers 
+* @lastRevision 2020.01.01
+* @version BBootstrap v.0.0.1
+* @license MIT License
+**/
+:root {
+	--dark-dark:  #330033;   --dark:  #330033;   --dark-light:  #330033;
+	--fire-dark:  #563d7c;   --fire:  #009900;   --fire-ligth:  #563d7c; 
+	--air-dark:   #6e43a3;   --air:   #006900;   --air-light:   #6e43a3; 
+	--water-dark: #b4a0cd;   --water: #00cc00;   --water-light: #b4a0cd;
+	--earth-dark: #cbbde2;   --earth: #99ff99;   --earth-light: #cbbde2;
+	--light-dark: #ffffff;   --light: #ffffff;   --light-light: #ffffff;
+}

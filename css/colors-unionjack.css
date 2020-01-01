@@ -1,0 +1,17 @@
+/**             
+* @package ./css/colors-unionjack.css
+* @author Frank Cherry
+* @copyright (c) 2019 Frank Cherry
+* @creationDate 2019.08.23
+* @developers 
+* @lastRevision 2020.01.01
+* @version BBootstrap v.0.0.1
+* @license MIT License
+**/
+
+:root {
+  --fire: #cc0000; 
+  --air: #050672; /* #050672 */
+  --water: #3333cc;
+  --earth: #ffffff;
+}
